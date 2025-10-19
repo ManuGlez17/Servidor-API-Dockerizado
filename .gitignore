@@ -1,0 +1,13 @@
+# Ignore large archives
+object_detection.tar
+*.tar
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Node
+node_modules/
+
+# Env files
+.env
